@@ -133,6 +133,23 @@ vue.jsを学習する際に基礎を学んだ後に、自分で考えたコー�
 食べ物写真付きで投稿することができるアプリになります。
 例:写真付きで食べ物を投稿→それについてコメントができる
 
+■管理者アカウント
+
+- email
+
+	- admin@example.com
+
+- パスワード
+	- password
+
+■一般アカウント
+
+- email
+	- test@example.com
+
+- パスワード
+	- password
+
 [食べ物共有アプリ(デプロイ済みアプリ)](https://food-app-output.herokuapp.com/)
 ***
 
